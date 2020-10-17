@@ -1,5 +1,6 @@
 Hi there, I'm Rahul singh - aka a beginner developer 👋
-
+......................................................
+......................................................
 I'm a Student, Developer, and Teacher!!
 🔭 I am just creating simple projects to learn coding !!
 🌱 I’m currently learning everything 🤣
